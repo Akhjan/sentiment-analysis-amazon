@@ -5,7 +5,7 @@ import numpy as np
 import joblib
 
 # Load the trained ensemble model
-ensemble_model = joblib.load('/Users/akhjan/Documents/KBTU Courses/Machine Learning/sentiment_analysis_model.pkl')
+ensemble_model = joblib.load('/Users/akhjan/Documents/KBTU Courses/Machine Learning/sentiment-analysis-amazon/sentiment_analysis_model.pkl')
 
 # Load the pre-trained embedding model
 embedding_model = SentenceTransformer('all-MiniLM-L6-v2')
