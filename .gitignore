@@ -1,0 +1,9 @@
+# Ignore Python virtual environment
+pytorch_env/
+
+# Bytecode files
+__pycache__/
+
+# Other potential virtual environment folders
+venv/
+env/
