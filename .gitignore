@@ -7,3 +7,4 @@ __pycache__/
 # Other potential virtual environment folders
 venv/
 env/
+pytorch_env/
